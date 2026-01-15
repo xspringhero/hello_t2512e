@@ -1,0 +1,14 @@
+/*selector*/
+
+* {
+    background: black;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color:red;
+    font-style: italic;
+}
